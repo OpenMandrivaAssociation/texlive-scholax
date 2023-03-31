@@ -1,6 +1,6 @@
 Name:		texlive-scholax
 Version:	61836
-Release:	1
+Release:	2
 Summary:	Extension of TeXGyreSchola (New Century Schoolbook) with math support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scholax

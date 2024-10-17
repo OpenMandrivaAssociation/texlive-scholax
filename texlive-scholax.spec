@@ -3,7 +3,7 @@ Version:	61836
 Release:	2
 Summary:	Extension of TeXGyreSchola (New Century Schoolbook) with math support
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scholax
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/scholax
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scholax.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scholax.doc.r%{version}.tar.xz
